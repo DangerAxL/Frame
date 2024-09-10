@@ -6,3 +6,4 @@
     <link rel="stylesheet" type="text/css" href="<?php echo RUTA_URL; ?> /css/estilos.css">
     <title><?php echo NOMBRESITIO; ?></title>
 </head>
+<body>
